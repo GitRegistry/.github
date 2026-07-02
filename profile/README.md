@@ -6,6 +6,10 @@
 
 > Private org.
 
+<p align="center">
+  <img src="https://media.giphy.com/media/i5FjqoLZajSKgFi7kF/giphy.gif" width="360" alt="Never gonna give your registry up" />
+</p>
+
 Docker Compose, infrastructure as code, and a registry that is absolutely, definitely, never gonna give your images up.
 
 ```txt
